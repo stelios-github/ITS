@@ -1,0 +1,50 @@
+body { 
+font-size: 16px;
+color: black;
+font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+font-size: 1.4em;
+background-image: url( ../images/background-home.jpg);
+background-repeat: repeat-y;
+
+ }
+
+#logo-img {
+
+    display: inline-block;
+    width: 156px;
+    height: 70px;
+    margin-top: 5px;
+    background-size: auto 43px;
+    background-image: url(../images/logo.jpg);
+    background-repeat: no-repeat;
+}
+
+#header-nav {
+ 	border-radius: 0;
+ 	border: 0;
+ 	background-color: rgba(153, 0, 77, 0.3)
+;
+ }
+
+#home-main-content-elements {
+ 	margin-top: 20px;
+ 	background-color: rgba(153, 0, 77, 0.5);
+ }
+
+ #home-main-content-elements-title {
+ 	 background-color: rgba(153, 0, 77, 0.5);
+ 	 margin-top: 50px
+
+ }
+
+#home-main-content-elements-tiles {
+ 	width: 100%;
+ 	rgba(153, 0, 77, 0.5);
+ }
+
+ #home-main-content-elements-tiles div h3 {
+ 	margin-top: 30px;
+ 	 	background-color: rgba(255,0,0,0.4);
+
+ }
+
