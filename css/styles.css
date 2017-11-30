@@ -1,12 +1,48 @@
+.header {
+	color: white;
+}
+
 body { 
 font-size: 16px;
-color: black;
+color: white;
 font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
 font-size: 1.4em;
 background-image: url( ../images/background-home.jpg);
 background-repeat: repeat-y;
 
  }
+#home-h1 {
+	background-color: rgba(153, 0, 77, 0.5);
+	color: white;
+}
+
+#home-tile1-header {
+	background-color: rgba(153, 0, 77, 0.5);
+	color:white;
+}
+
+#home-tile2-header {
+	background-color: rgba(153, 0, 77, 0.5);
+	color:white
+}
+
+#home-tile3-header {
+	background-color: rgba(153, 0, 77, 0.5);
+	color: white;	
+}
+
+
+#home-tile1-body {
+background-color: rgba(153, 0, 77, 0.2)
+}
+
+#home-tile2-body {
+background-color: rgba(153, 0, 77, 0.2)
+}
+
+#home-tile3-body {
+background-color: rgba(153, 0, 77, 0.2)
+}
 
 #logo-img {
 
@@ -25,26 +61,3 @@ background-repeat: repeat-y;
  	background-color: rgba(153, 0, 77, 0.3)
 ;
  }
-
-#home-main-content-elements {
- 	margin-top: 20px;
- 	background-color: rgba(153, 0, 77, 0.5);
- }
-
- #home-main-content-elements-title {
- 	 background-color: rgba(153, 0, 77, 0.5);
- 	 margin-top: 50px
-
- }
-
-#home-main-content-elements-tiles {
- 	width: 100%;
- 	rgba(153, 0, 77, 0.5);
- }
-
- #home-main-content-elements-tiles div h3 {
- 	margin-top: 30px;
- 	 	background-color: rgba(255,0,0,0.4);
-
- }
-
