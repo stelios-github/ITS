@@ -1,13 +1,9 @@
-/*!
- * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
- */
+
 
 body {
   
   padding-top: 54px;
-  background-image: url('../images/background.png');
+  background-image: url('../images/background-.png');
   background-size: auto;
 
  ;
@@ -18,6 +14,9 @@ body {
   body {
     padding-top: 56px;
   }
+}
+.dropdown-menu {
+    background-color: rgba(230, 230, 230, 0.5)
 }
 
 .carousel-item {
@@ -34,7 +33,7 @@ body {
   margin-bottom: 30px;
 }
 
-.card-body { background-color: rgba(128, 128, 128, 0.3);
+.card-body { background-color: rgba(128, 128, 128, .2);
 }
 
 .card-header { background-color: rgba(128, 128, 128, 0.6);
